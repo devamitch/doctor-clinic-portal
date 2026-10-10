@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+dist/
+build/
+coverage/
+*.min.js
+
+# Platform specific
+ios/
+android/
+.expo/
+
+# Generated files
+*.generated.*
+*.d.ts
+
+# Package files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs
+*.log
+
+# Coverage directory
+coverage/
+
+# Temporary folders
+tmp/
+temp/
+
+# Config files that should maintain their format
+.eslintrc*
+.babelrc*
+.prettierrc*
+
+# Markdown files in certain directories
+CHANGELOG.md

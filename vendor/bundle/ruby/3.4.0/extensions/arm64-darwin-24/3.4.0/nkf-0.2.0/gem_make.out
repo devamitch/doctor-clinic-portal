@@ -1,0 +1,18 @@
+current directory: /Volumes/Amit/Projects/Apps/MyClinic/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Volumes/Amit/Projects/Apps/MyClinic/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250605-20409-g1fqny sitelibdir\=./.gem.20250605-20409-g1fqny clean
+
+current directory: /Volumes/Amit/Projects/Apps/MyClinic/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250605-20409-g1fqny sitelibdir\=./.gem.20250605-20409-g1fqny
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Volumes/Amit/Projects/Apps/MyClinic/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250605-20409-g1fqny sitelibdir\=./.gem.20250605-20409-g1fqny install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250605-20409-g1fqny
+
+current directory: /Volumes/Amit/Projects/Apps/MyClinic/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250605-20409-g1fqny sitelibdir\=./.gem.20250605-20409-g1fqny clean
